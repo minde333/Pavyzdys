@@ -1,0 +1,14 @@
+C:\Users\Mantas\OneDrive - Kaunas University of Technology\OP\Laboratoriniai darbai\L.1 Proto musis\L.1 Proto musis\U2-5_Mantas_Danauskas\obj\Debug\U2-5_Mantas_Danauskas.csprojAssemblyReference.cache
+C:\Users\Mantas\OneDrive - Kaunas University of Technology\OP\Laboratoriniai darbai\L.1 Proto musis\L.1 Proto musis\U2-5_Mantas_Danauskas\obj\Debug\U2-5_Mantas_Danauskas.csproj.CoreCompileInputs.cache
+C:\Users\Mantas\OneDrive - Kaunas University of Technology\OP\Laboratoriniai darbai\L.1 Proto musis\L.1 Proto musis\U2-5_Mantas_Danauskas\bin\Debug\U2-5_Mantas_Danauskas.exe.config
+C:\Users\Mantas\OneDrive - Kaunas University of Technology\OP\Laboratoriniai darbai\L.1 Proto musis\L.1 Proto musis\U2-5_Mantas_Danauskas\bin\Debug\U2-5_Mantas_Danauskas.exe
+C:\Users\Mantas\OneDrive - Kaunas University of Technology\OP\Laboratoriniai darbai\L.1 Proto musis\L.1 Proto musis\U2-5_Mantas_Danauskas\bin\Debug\U2-5_Mantas_Danauskas.pdb
+C:\Users\Mantas\OneDrive - Kaunas University of Technology\OP\Laboratoriniai darbai\L.1 Proto musis\L.1 Proto musis\U2-5_Mantas_Danauskas\obj\Debug\U2-5_Mantas_Danauskas.exe
+C:\Users\Mantas\OneDrive - Kaunas University of Technology\OP\Laboratoriniai darbai\L.1 Proto musis\L.1 Proto musis\U2-5_Mantas_Danauskas\obj\Debug\U2-5_Mantas_Danauskas.pdb
+C:\Users\Armis\Desktop\L.1 Proto musis\U2-5_Mantas_Danauskas\bin\Debug\U2-5_Mantas_Danauskas.exe.config
+C:\Users\Armis\Desktop\L.1 Proto musis\U2-5_Mantas_Danauskas\bin\Debug\U2-5_Mantas_Danauskas.exe
+C:\Users\Armis\Desktop\L.1 Proto musis\U2-5_Mantas_Danauskas\bin\Debug\U2-5_Mantas_Danauskas.pdb
+C:\Users\Armis\Desktop\L.1 Proto musis\U2-5_Mantas_Danauskas\obj\Debug\U2-5_Mantas_Danauskas.csprojAssemblyReference.cache
+C:\Users\Armis\Desktop\L.1 Proto musis\U2-5_Mantas_Danauskas\obj\Debug\U2-5_Mantas_Danauskas.csproj.CoreCompileInputs.cache
+C:\Users\Armis\Desktop\L.1 Proto musis\U2-5_Mantas_Danauskas\obj\Debug\U2-5_Mantas_Danauskas.exe
+C:\Users\Armis\Desktop\L.1 Proto musis\U2-5_Mantas_Danauskas\obj\Debug\U2-5_Mantas_Danauskas.pdb

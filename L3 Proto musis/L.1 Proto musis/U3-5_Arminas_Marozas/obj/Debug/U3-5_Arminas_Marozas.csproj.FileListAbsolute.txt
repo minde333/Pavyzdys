@@ -1,0 +1,14 @@
+C:\Users\Armis\Desktop\L.1 Proto musis\U3-5_Arminas_Marozas\bin\Debug\U3-5_Arminas_Marozas.exe.config
+C:\Users\Armis\Desktop\L.1 Proto musis\U3-5_Arminas_Marozas\bin\Debug\U3-5_Arminas_Marozas.exe
+C:\Users\Armis\Desktop\L.1 Proto musis\U3-5_Arminas_Marozas\bin\Debug\U3-5_Arminas_Marozas.pdb
+C:\Users\Armis\Desktop\L.1 Proto musis\U3-5_Arminas_Marozas\obj\Debug\U3-5_Arminas_Marozas.csprojAssemblyReference.cache
+C:\Users\Armis\Desktop\L.1 Proto musis\U3-5_Arminas_Marozas\obj\Debug\U3-5_Arminas_Marozas.csproj.CoreCompileInputs.cache
+C:\Users\Armis\Desktop\L.1 Proto musis\U3-5_Arminas_Marozas\obj\Debug\U3-5_Arminas_Marozas.exe
+C:\Users\Armis\Desktop\L.1 Proto musis\U3-5_Arminas_Marozas\obj\Debug\U3-5_Arminas_Marozas.pdb
+C:\Users\Vartotojas\Desktop\L3 Proto musis\L.1 Proto musis\U3-5_Arminas_Marozas\bin\Debug\U3-5_Arminas_Marozas.exe.config
+C:\Users\Vartotojas\Desktop\L3 Proto musis\L.1 Proto musis\U3-5_Arminas_Marozas\bin\Debug\U3-5_Arminas_Marozas.exe
+C:\Users\Vartotojas\Desktop\L3 Proto musis\L.1 Proto musis\U3-5_Arminas_Marozas\bin\Debug\U3-5_Arminas_Marozas.pdb
+C:\Users\Vartotojas\Desktop\L3 Proto musis\L.1 Proto musis\U3-5_Arminas_Marozas\obj\Debug\U3-5_Arminas_Marozas.csprojAssemblyReference.cache
+C:\Users\Vartotojas\Desktop\L3 Proto musis\L.1 Proto musis\U3-5_Arminas_Marozas\obj\Debug\U3-5_Arminas_Marozas.csproj.CoreCompileInputs.cache
+C:\Users\Vartotojas\Desktop\L3 Proto musis\L.1 Proto musis\U3-5_Arminas_Marozas\obj\Debug\U3-5_Arminas_Marozas.exe
+C:\Users\Vartotojas\Desktop\L3 Proto musis\L.1 Proto musis\U3-5_Arminas_Marozas\obj\Debug\U3-5_Arminas_Marozas.pdb

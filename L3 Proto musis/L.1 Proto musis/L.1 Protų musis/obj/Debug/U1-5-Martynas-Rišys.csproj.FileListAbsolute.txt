@@ -1,0 +1,14 @@
+C:\Users\marty\Desktop\L.1 Proto mūšis\L.1 Protų mūšis\obj\Debug\U1-5-Martynas-Rišys.csprojAssemblyReference.cache
+C:\Users\marty\Desktop\L.1 Proto mūšis\L.1 Protų mūšis\obj\Debug\U1-5-Martynas-Rišys.csproj.CoreCompileInputs.cache
+C:\Users\marty\Desktop\L.1 Proto mūšis\L.1 Protų mūšis\bin\Debug\L.1 Protų mūšis.exe.config
+C:\Users\marty\Desktop\L.1 Proto mūšis\L.1 Protų mūšis\bin\Debug\L.1 Protų mūšis.exe
+C:\Users\marty\Desktop\L.1 Proto mūšis\L.1 Protų mūšis\bin\Debug\L.1 Protų mūšis.pdb
+C:\Users\marty\Desktop\L.1 Proto mūšis\L.1 Protų mūšis\obj\Debug\L.1 Protų mūšis.exe
+C:\Users\marty\Desktop\L.1 Proto mūšis\L.1 Protų mūšis\obj\Debug\L.1 Protų mūšis.pdb
+C:\Users\marty\Desktop\OP\L.1 Proto mūšis\L.1 Protų mūšis\bin\Debug\L.1 Protų mūšis.exe.config
+C:\Users\marty\Desktop\OP\L.1 Proto mūšis\L.1 Protų mūšis\bin\Debug\L.1 Protų mūšis.exe
+C:\Users\marty\Desktop\OP\L.1 Proto mūšis\L.1 Protų mūšis\bin\Debug\L.1 Protų mūšis.pdb
+C:\Users\marty\Desktop\OP\L.1 Proto mūšis\L.1 Protų mūšis\obj\Debug\U1-5-Martynas-Rišys.csprojAssemblyReference.cache
+C:\Users\marty\Desktop\OP\L.1 Proto mūšis\L.1 Protų mūšis\obj\Debug\U1-5-Martynas-Rišys.csproj.CoreCompileInputs.cache
+C:\Users\marty\Desktop\OP\L.1 Proto mūšis\L.1 Protų mūšis\obj\Debug\L.1 Protų mūšis.exe
+C:\Users\marty\Desktop\OP\L.1 Proto mūšis\L.1 Protų mūšis\obj\Debug\L.1 Protų mūšis.pdb

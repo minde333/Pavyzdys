@@ -1,0 +1,7 @@
+C:\Users\Armis\Desktop\L.1 Proto musis\L.1 Protų musis\bin\Debug\L.1 Protų mūšis.exe.config
+C:\Users\Armis\Desktop\L.1 Proto musis\L.1 Protų musis\bin\Debug\L.1 Protų mūšis.exe
+C:\Users\Armis\Desktop\L.1 Proto musis\L.1 Protų musis\bin\Debug\L.1 Protų mūšis.pdb
+C:\Users\Armis\Desktop\L.1 Proto musis\L.1 Protų musis\obj\Debug\U1-5-Martynas-Risys.csprojAssemblyReference.cache
+C:\Users\Armis\Desktop\L.1 Proto musis\L.1 Protų musis\obj\Debug\U1-5-Martynas-Risys.csproj.CoreCompileInputs.cache
+C:\Users\Armis\Desktop\L.1 Proto musis\L.1 Protų musis\obj\Debug\L.1 Protų mūšis.exe
+C:\Users\Armis\Desktop\L.1 Proto musis\L.1 Protų musis\obj\Debug\L.1 Protų mūšis.pdb
